@@ -1,0 +1,7 @@
+Judul : PERANCANGAN SISTEM INVENTORY BARANG BERBASIS WEB MENGGUNAKAN KOMBINASI HTML 5,  JAVASCRIPT, DAN WEB SQL
+Untuk mempermudah jalannya proses dalam pendataan barang, tentunya memerlukan sebuah sistem pendataan barang yang efektif dan efisien, agar bisa mengetahui masuknya barang kedalam penyimpanan. 
+Karena semakin banyaknya barang dalam sebuah penyimpanan atau gudang, semakin sulit dan kompleks bagian dari sistem pendataan barangnya. 
+Dengan semakin kompleksnya masalah yang dihadapi, sebuah gudang membutuhkan teknologi informasi yang dapat membantu jalannya operasi sebuah pendataan barang, yang bertujuan agar dapat menjamin pendataan yang tepat dan  kuantitas yang tepat. 
+Jika sebuah sistem pendataan barang masih dilakukan secara manual, tak jarang banyak terjadi kesalahan dalam melakukan pendataan-pendataan serta laporan-laporan yang dibuat, sehingga kesalahan tersebut malah membuat kerugian yang tidak diinginkan oleh sebuah gudang.
+Aplikasi stok barang berbasis web di dalam penyimpoanan barang ini adalah sebuah fasilitas yang diharapkan dapat membantu proses pendataan barang. 
+Sistem ini dikembangkan dengan menggunakan database Web SQL dan pemrograman HTML5, dan Javascript.
